@@ -1,7 +1,7 @@
 version: "3.4"
 x-shared: &common
   ipc: host
-  image: zhuokund/microns-base
+  build: .
   volumes:
     - ../:/src/odor_grin_lens
   env_file:
