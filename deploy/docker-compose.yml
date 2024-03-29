@@ -1,7 +1,7 @@
 version: "3.4"
 x-shared: &common
   ipc: host
-  image: at-docker:5000/datascience-notebook:cuda11.4.0-python3.8
+  image: zhuokund/datascience-notebook:cuda11.4.0-python3.8
   volumes:
     - ../:/src/odor_grin_lens
   env_file:
