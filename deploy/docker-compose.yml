@@ -1,7 +1,7 @@
 version: "3.4"
 x-shared: &common
   ipc: host
-  build: .
+  image: at-docker:5000/datascience-notebook:cuda11.4.0-python3.8
   volumes:
     - ../:/src/odor_grin_lens
   env_file:
@@ -13,4 +13,4 @@ services:
     container_name: ${JUPYTER_NAME}
     ports:
       - "${JUPYTER_HOST:-0.0.0.0}:${JUPYTER_PORT_CONTAINER:-8888}:8888"
-    entrypoint: ["tini", "--", "/src/odor_grin_lens/deploy/notebook.sh"]
+    entrypoint: ["/src/odor_grin_lens/deploy/notebook.sh",]
