@@ -1,0 +1,73 @@
+animal,comp,accuracy
+A60Nt," MSC 
+IPA",0.4
+A60Nt,"2-ME
+ MSC ",0.51
+A60Nt,"2-ME
+Eugenol",0.49000000000000005
+A60Nt,"2-ME
+IPA",0.54
+A60Nt,"Eugenol
+ MSC ",0.43
+A60Nt,"Eugenol
+IPA",0.48
+A60R1," MSC 
+IPA",0.71
+A60R1,"2-ME
+ MSC ",0.6399999999999999
+A60R1,"2-ME
+Eugenol",0.55
+A60R1,"2-ME
+IPA",0.6599999999999999
+A60R1,"Eugenol
+ MSC ",0.74
+A60R1,"Eugenol
+IPA",0.72
+A62-1," MSC 
+IPA",0.61
+A62-1,"2-ME
+ MSC ",0.58
+A62-1,"2-ME
+Eugenol",0.58
+A62-1,"2-ME
+IPA",0.5
+A62-1,"Eugenol
+ MSC ",0.62
+A62-1,"Eugenol
+IPA",0.54
+A62Nt," MSC 
+IPA",0.5700000000000001
+A62Nt,"2-ME
+ MSC ",0.43
+A62Nt,"2-ME
+Eugenol",0.65
+A62Nt,"2-ME
+IPA",0.61
+A62Nt,"Eugenol
+ MSC ",0.45
+A62Nt,"Eugenol
+IPA",0.5599999999999999
+A88R1," MSC 
+IPA",0.85
+A88R1,"2-ME
+ MSC ",0.72
+A88R1,"2-ME
+Eugenol",0.77
+A88R1,"2-ME
+IPA",0.6
+A88R1,"Eugenol
+ MSC ",0.71
+A88R1,"Eugenol
+IPA",0.86
+tracesfeature," MSC 
+IPA",0.73
+tracesfeature,"2-ME
+ MSC ",0.76
+tracesfeature,"2-ME
+Eugenol",0.85
+tracesfeature,"2-ME
+IPA",0.64
+tracesfeature,"Eugenol
+ MSC ",0.6900000000000001
+tracesfeature,"Eugenol
+IPA",0.74
